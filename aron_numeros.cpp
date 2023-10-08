@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-//Esteban Angeles Arriaga
 int main () {
     int numero ;
     int division_3 ;
@@ -37,4 +36,3 @@ int main () {
         }
     }
    
-}
