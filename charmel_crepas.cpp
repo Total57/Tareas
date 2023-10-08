@@ -1,8 +1,5 @@
 #include <iostream>
 using namespace std ;
-
-
-
 int main (){
     int CREPA = 40;
     bool menu ;

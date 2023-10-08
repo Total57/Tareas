@@ -35,4 +35,6 @@ int main () {
             cout << numero << endl;
         }
     }
+
+}
    
