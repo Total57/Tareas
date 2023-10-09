@@ -9,6 +9,11 @@ int main (){
     cout << "\nEjemplo: 6 = 1+2+3+4+5+6 = 21" << endl;
     cout << "\nDigita el numero: " ;
     cin >> numero ;
+    while (numero <= 0 )
+    {
+        cout << "\nDigita un numero valido: " ;
+        cin >> numero ;
+    }
 
     resultado = (numero * (numero + 1)) / 2 ; // La fumolu para sumar todos los digitos de un numero es n (n+1) /2 
 
